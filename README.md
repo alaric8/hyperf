@@ -1,6 +1,3 @@
 # hyperf
 
-
-echo "hell owrld"
-
-fdsfsf
+test helol owrld
